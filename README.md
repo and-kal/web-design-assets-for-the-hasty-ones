@@ -67,6 +67,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [Favic-o-Matic](https://favicomatic.com/)
 * [CSS background design patterns](https://www.magicpattern.design/tools/css-backgrounds)
 * [Brutalist Frameworx](http://www.brutalistframework.com)
+* [Animate.css](https://animate.style/)
 
 <!-- 
 will have to look through these and check if they should be included 

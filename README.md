@@ -31,6 +31,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - an active fork of the seemingly deprecated Semantic-UI
 * [Materialize](https://materializecss.com/) - "a modern responsive CSS framework based on Material Design by Google"
 * [Bulma](https://bulma.io/) - "a free, open source framework that provides ready-to-use front-end components that you can easily combine to build responsive web interfaces"
+* [Sakura](https://oxal.org/projects/sakura/) - "a minimal classless css framework / theme."
 * [PSone.css](https://github.com/98mprice/PSone.css) - PlayStation 1 (Tekken, Final Fantasy VII) style CSS framework
 * [NES.css](https://github.com/nostalgic-css/NES.css) - NES/Famicom style CSS framework
 * [aesthetic-css](https://github.com/torch2424/aesthetic-css) - Windows98 & XP style CSS framework

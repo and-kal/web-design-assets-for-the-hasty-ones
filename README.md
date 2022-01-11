@@ -36,9 +36,13 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [NES.css](https://github.com/nostalgic-css/NES.css) - NES/Famicom style CSS framework
 * [aesthetic-css](https://github.com/torch2424/aesthetic-css) - Windows98 & XP style CSS framework
 
-## Colour usage
+## Colour, shapes, etc. CSS
 * [Solarized](https://ethanschoonover.com/solarized/)
 * [Colorhunt](https://colorhunt.co/)
+* [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - easily create intricate shapes for your buttons, boxes etc.
+* [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
+* [CSS Hover Effects](https://ianlunn.github.io/Hover/) - collection of CSS hover effects
+* [Wicked Backgrounds](https://wickedbackgrounds.com/app) - tool for creating CSS backgrounds
 
 ## Design and development tools
 * online IDEs: - c9.io, repl.it
@@ -78,6 +82,7 @@ https://www.papayatemplates.com/
 ?? https://jamstackthemes.dev/
 ?? octopress 
 * [neohosting.or]() - ...
+* [](https://nextapps-de.github.io/winbox/)
 -->
 ----
 

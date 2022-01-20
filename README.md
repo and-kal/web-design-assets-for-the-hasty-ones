@@ -69,6 +69,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 
 * [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts) - helps you to host Google fonts locally instead of relying on Google APIs
 * [Favicon Generator](https://www.favicon-generator.org/)
+* [Component Gallery](https://component.gallery/) - Ressource of components to be used in Vanilla JS or JS frameworks
 * [Favic-o-Matic](https://favicomatic.com/)
 * [CSS background design patterns](https://www.magicpattern.design/tools/css-backgrounds)
 * [Brutalist Frameworx](http://www.brutalistframework.com)

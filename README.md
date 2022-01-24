@@ -6,7 +6,7 @@ Here's a bunch of resources for easy, low-level web design purposes. Basically n
 * [Web design assets](#wed-design-assets)
   * [CSS templates](#css-templates)
   * [CSS frameworks](#css-frameworks)
-  * [Colour usage](#colour-usage)
+  * [Colour usage](#colour,-shapes,-etc.-CSS)
   * [Design and development tools](#design-and-development-tools)
   * [Static Site Generators](#static-site-generators)
   * [Hosting services](#hosting-services)
@@ -39,6 +39,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 ## Colour, shapes, etc. CSS
 * [Solarized](https://ethanschoonover.com/solarized/)
 * [Colorhunt](https://colorhunt.co/)
+* [Gradient Generator by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - easily create intricate shapes for your buttons, boxes etc.
 * [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 * [CSS Hover Effects](https://ianlunn.github.io/Hover/) - collection of CSS hover effects

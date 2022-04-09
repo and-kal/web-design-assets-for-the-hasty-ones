@@ -37,6 +37,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [aesthetic-css](https://github.com/torch2424/aesthetic-css) - Windows98 & XP style CSS framework
 
 ## Colour, shapes, etc. CSS
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - really helpful in creating custom colour pallets
 * [Solarized](https://ethanschoonover.com/solarized/)
 * [Colorhunt](https://colorhunt.co/)
 * [Gradient Generator by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
@@ -45,9 +46,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [CSS Hover Effects](https://ianlunn.github.io/Hover/) - collection of CSS hover effects
 * [Wicked Backgrounds](https://wickedbackgrounds.com/app) - tool for creating CSS backgrounds
 
-## Design and development tools
-* online IDEs: - c9.io, repl.it
-
+## Website builders
 *If you really don't want to do any coding at all, you can try one of these services (their free versions usually suffice for small projects):*
 * [Readymag](https://readymag.com/)
 * [Tilda](https://tilda.cc/)
@@ -61,9 +60,10 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [Pelican](https://docs.getpelican.com/)
 * [many many many more SSGs](https://jamstack.org/generators/) -
 
-## Hosting services
+## Hosting and testing
 
 * [glitch.me](https://glitch.com/features) - simple and powerful platform for hosting, sharing, remixing and developing websites and web apps
+* [repl.it](https://replit.com/) - online REPL / IDE
 * [5 other popular options: ](https://dev.to/afozbek/5-ways-to-host-your-applications-4d77) - Surge, Firebase, Vercel, Github Pages, Netlify
 
 ## other useful assets

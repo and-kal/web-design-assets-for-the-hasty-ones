@@ -42,6 +42,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 * [Solarized](https://ethanschoonover.com/solarized/)
 * [Colorhunt](https://colorhunt.co/)
 * [Gradient Generator by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
+* [uiGradients](https://uigradients.com/#Mango)
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - easily create intricate shapes for your buttons, boxes etc.
 * [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 * [CSS Hover Effects](https://ianlunn.github.io/Hover/) - collection of CSS hover effects

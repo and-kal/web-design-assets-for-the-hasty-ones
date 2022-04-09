@@ -38,6 +38,7 @@ https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3
 
 ## Colour, shapes, etc. CSS
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - really helpful in creating custom colour pallets
+* [Paletton](http://paletton.com/) - a similar tool
 * [Solarized](https://ethanschoonover.com/solarized/)
 * [Colorhunt](https://colorhunt.co/)
 * [Gradient Generator by Josh W Comeau](https://www.joshwcomeau.com/gradient-generator/)
